@@ -58,7 +58,6 @@ print("Words without 'e':", l1)
 Thus the program executed successfully.
 
 
-# Module-3
 # 🧹 Strings-Remove Nth Index Character from a String
 
 ## 🎯 Aim
